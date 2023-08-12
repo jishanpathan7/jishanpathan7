@@ -28,8 +28,8 @@
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
-
-
+</br>
+</br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jishanpathan7&show_icons=true&locale=en&layout=compact" alt="jishanpathan7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jishanpathan7&show_icons=true&locale=en" alt="jishanpathan7" /></p>
