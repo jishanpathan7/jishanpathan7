@@ -19,6 +19,15 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1niNcjz5zdyNgJORMufpRixMQAL7uJOda/view](https://drive.google.com/file/d/1niNcjz5zdyNgJORMufpRixMQAL7uJOda/view)
 
+<h3 align="left">🥸 Random facts:</h3>
+
+- I drink a lot of tea
+- I'm into web design
+- I love to cook (and eat)
+- I want to live on Pandora
+- I'm slightly addicted to Linkedin but no post in a long time 😬
+- Yoda is my mentor
+
 <h3 align="left">Connect with me:</h3>
 <div id="badges">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/jishanpatel7/" target="blank">
