@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jishan Pathan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Frontend developer with Random Thoughts and Cup of Tea in Hand all time 😉</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
