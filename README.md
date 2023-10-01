@@ -30,10 +30,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <div id="badges">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/jishanpatel7/" target="blank">
+  <a href="https://www.linkedin.com/in/jishanpatel7/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://instagram.com/https://www.instagram.com/shaan4.real/" target="blank">
+  <a href="https://www.instagram.com/shaan4.real/?hl=en" target="blank">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
