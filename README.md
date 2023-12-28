@@ -5,19 +5,15 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jishanpathan7&label=Profile%20views&color=0e75b6&style=flat" alt="jishanpathan7" /> </p>
 
-- 🔭 I’m currently working on [Crypto Hunter Application](https://react-crypto-43832.web.app/)
+- 🔭 I’m currently working on [OmniGen AI SAAS Model](https://github.com/jishanpathan7/omnigenai-sass)
 
-- 🌱 I’m currently learning **Next js and Typescript**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🌱 I’m currently working in **Next js , React.js and Typescript**
 
 - 👨‍💻 All of my projects are available at [https://jishanpatel78.netlify.app/](https://jishanpatel78.netlify.app/)
 
-- 💬 Ask me about **React, SCSS, Javascript**
+- 💬 Ask me about **Web Development** 
 
 - 📫 How to reach me **jishanpatel78@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1niNcjz5zdyNgJORMufpRixMQAL7uJOda/view](https://drive.google.com/file/d/1niNcjz5zdyNgJORMufpRixMQAL7uJOda/view)
 
 <h3 align="left">🥸 Random facts:</h3>
 
@@ -25,7 +21,7 @@
 - I'm into web design
 - I love to cook (and eat)
 - I want to live on Pandora
-- I'm slightly addicted to Linkedin but no post in a long time 😬
+- I'm slightly addicted to LinkedIn😬
 - Yoda is my mentor
 
 <h3 align="left">Connect with me:</h3>
