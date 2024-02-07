@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working in **Next js , React.js and Typescript**
 
-- 👨‍💻 All of my projects are available at [https://jishanpatel78.netlify.app/](https://jishanpatel78.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://jishanpatel78.vercel.app/](https://jishanpatel78.vercel.app/)
 
 - 💬 Ask me about **Web Development** 
 
